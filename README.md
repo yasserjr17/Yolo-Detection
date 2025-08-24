@@ -18,5 +18,6 @@ It supports image uploads, video processing, and live webcam detection.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/YOLOv8-Streamlit-Detection.git
+git clone https://github.com/jryasser17/YOLOv8-Streamlit-Detection.git
 cd YOLOv8-Streamlit-Detection
+
